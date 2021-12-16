@@ -1,0 +1,4 @@
+El siguiente es el link donde se encuentra la carpeta modelo con los pesos y el modelo obtenido al entrenar la red neuronal, si no puede acceder
+solo basta con compilar el codigo de entrenar.py
+
+https://drive.google.com/file/d/1AXBWDWzV_BNhQ2dwCzhqUlJxd0BMoJtT/view?usp=sharing
